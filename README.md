@@ -8,4 +8,4 @@ Works with multiple, horizontally aligned displays.
 - Python3.7
 - wmctrl
 - xdotool
-- pip with installation of these pachets: screeninfo, click
+- pip with installation of these packets: screeninfo, click
